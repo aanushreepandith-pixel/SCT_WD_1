@@ -24,6 +24,7 @@ Scroll-to-top button — appears after scrolling 300px
 
 Custom scrollbar — styled to match the brand palette
 
+__________________________________________________________________________________________________________________________________________
 
 **Project Structure**
 
@@ -32,6 +33,7 @@ SCT_WD_1/
 ├── landing page.html   # Single self-contained file (HTML + CSS + JS)
 
 └── README.md           # Project documentation
+__________________________________________________________________________________________________________________________________________
 
 **Tech Stack**
 
